@@ -1,4 +1,4 @@
-## Docsify使用指南
+## Docsify使用指
 
 ![image-20211016010648260](images/image-20211016010648260.png)
 
@@ -197,7 +197,7 @@ bash start_docsify.sh
 ``` markdown
 <!-- _coverpage.md -->
 
-# Docsify使用指南 
+# Docsify使用指南
 
 > 💪Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
 
